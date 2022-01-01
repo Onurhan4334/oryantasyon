@@ -1,0 +1,14 @@
+1-Girilen iki sayının ortalamasını hesaplayan algoritma ve akış şeması
+2-Girilen bir sayının pozitif mi negatif mi olduğunu ekrana yazdıran algoritma ve akış şeması
+3-Girilen iki sayıdan hangisinin daha küçük olduğunu ekrana yazdıran algoritma ve akış şeması
+4-Bir öğrencinin almış olduğu vize notu ile final notunun ortalamasını hesaplama
+5-1 ile 1000 arasındaki sayıları ekrana yazdıran algoritma ve akış şeması
+6-Girilen bir sayının tek mi çift mi olduğunu hesaplayan ve sonucu ekrana yazdıran algoritma ve akış şeması
+7-Girilen bir x sayısının yine girilen bir y sayısına tam bölünüp bölünmediğini ekrana yazdıran algoritma ve akış şeması
+8-Kısa kenarı ve uzun kenarı girilen dikdörtgenin çevresini hesaplayan algoritma ve akış şeması
+9-Kısa kenarı ve uzun kenarı girilen dikdörtgenin alanını hesaplayan algoritma ve akış şeması
+10-Girilen bir fiyatın KDV (%18) eklendikten sonraki KDV’li fiyatını ekrana yazdıran algoritma ve akış şeması
+
+
+
+Kaynak:https://www.algoritmaornekleri.com/algoritma/algoritma-ornekleri-ve-cozumleri-akis-semasi-ile-birlikte/
